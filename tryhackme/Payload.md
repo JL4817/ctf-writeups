@@ -106,11 +106,7 @@ The Lambda layer contains arbitrary Python code and embeds the second half of th
 ### Step 7 — Reconstruct the Flag
 
 Combining the truncated beacon payload with the suffix found in the candidate model:
-
-```
-THM{b4ckd00r_1n_  +  pl41n_s1ght}
-```
-
+We already know what the flag is. 
 🏁 Flag retrieved.
 
 ---
